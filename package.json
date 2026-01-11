@@ -1,0 +1,25 @@
+{
+  "name": "playwright-automation-anywhere",
+  "version": "1.0.0",
+  "description": "Playwright automation framework for Automation Anywhere Community Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "test:form-upload": "playwright test tests/form-upload.spec.ts"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  }
+}

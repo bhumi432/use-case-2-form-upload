@@ -1,0 +1,12 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+*.log
+.env
+.env.local
+screenshots/
+*.png
+*.jpg
+*.jpeg
+dist/
