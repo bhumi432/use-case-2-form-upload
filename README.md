@@ -259,11 +259,11 @@ Potential improvements:
 
 ## 📄 License
 
-ISC
+
 
 ## 👤 Author
 
-QA Automation Engineer
+bhumi
 
 ---
 
